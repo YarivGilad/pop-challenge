@@ -1,5 +1,13 @@
 ## Countries population challenge
 
+### Installation
+1. Clone the repository
+2. cd into the directory
+3. Run `npm install` to install the dependencies
+4. Run `npm run dev` to run the program
+5. Notice you'll need at least node version 19 to run the program in watch mode...
+
+### Instructions
 1. First - translate the first two functions **getCountryPopulation()** and **manual()** to async functions
 2. Second - Given the array of countries, call the **getCountryPopulation()** function multiple times
 once for each country and display the results like this for example:    
