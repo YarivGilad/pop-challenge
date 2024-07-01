@@ -1,0 +1,22 @@
+{
+  "name": "pop-challenge",
+  "version": "1.0.0",
+  "description": "experimenting with async functions",
+  "type": "module",
+  "scripts": {
+    "dev": "node --watch index.mjs",
+    "start": "node index.mjs"
+  },
+  "keywords": [
+    "promises"
+  ],
+  "author": "Yariv Gilad <https://yarivgilad.com>",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "@ajar/marker": "^1.3.3"
+  },
+  "engines" : { 
+    "node" : ">= 19.0.0",
+    "npm" : ">= 10.0.0"
+  }
+}
